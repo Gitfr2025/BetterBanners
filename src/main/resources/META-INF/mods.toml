@@ -10,6 +10,7 @@ credits="Thanks for this example mod goes to Java"
 authors="Love, Cheese and small house plants"
 description='''
 Placeholder
+Testtest
 '''
 [[dependencies.bb]]
     modId="forge"
